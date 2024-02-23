@@ -1,6 +1,6 @@
 # Soal Prioritas 1 (80)
 
-1. Sebutkan dan jelaskan berbagai skill yang dibutuhkan untuk menjadi seorang data engineer! (minimal 3)
+### 1. Sebutkan dan jelaskan berbagai skill yang dibutuhkan untuk menjadi seorang data engineer! (minimal 3)
 
 a. Bahasa Pemrograman
 
@@ -30,7 +30,7 @@ Referensi :
 -	[dqlab.id](https://dqlab.id/deretan-skill-penting-untuk-siap-jadi-data-engineer)
 -	[terralogiq.com](https://terralogiq.com/data-engineering/)
 
-2. Sebutkan dan jelaskan urgensi / pentingnya peran data engineer dalam industri di saat ini!
+### 2. Sebutkan dan jelaskan urgensi / pentingnya peran data engineer dalam industri di saat ini!
 
 Peran data engineer dalam industri saat ini sangatlah penting dan tidak terbantahkan. Dalam dunia yang semakin terkoneksi dan tergantung pada data, profesi data engineer menjadi tulang punggung dalam mengelola, mengolah, dan menerjemahkan data menjadi wawasan yang berharga bagi perusahaan. Istilah "Data is the New Oil" menegaskan bahwa data memiliki nilai ekonomi yang besar dan dapat menjadi sumber daya yang sangat berharga bagi perusahaan. Data engineer memiliki peran krusial dalam membangun infrastruktur dan sistem data yang kokoh serta efisien. Mereka tidak hanya memastikan akses data yang akurat dan tepat waktu, tetapi juga bertanggung jawab dalam menghadapi berbagai tantangan industri dengan mengantisipasi dan menanggapi kebutuhan akan data yang terus berkembang.
 
