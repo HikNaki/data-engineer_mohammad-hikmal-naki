@@ -4,7 +4,7 @@
 
 1. Membuat sebuah algoritma berdasarkan permasalahan yang akan dipecahkan.
 
-## Task 
+### Task 
 
 1. Buatlah sebuah flowchart untuk menghitung luas lingkaran.
 2. Buatlah sebuah flowchart untuk menghitung luas trapesium.
