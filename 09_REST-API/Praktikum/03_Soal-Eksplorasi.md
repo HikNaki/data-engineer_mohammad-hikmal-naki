@@ -4,11 +4,11 @@
 
 Endpoint pada RentABook API memiliki fungsi sebagai berikut:
 
-Authentication: Meminta token akses untuk otentikasi.
-Client: Melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data klien.
-User: Melakukan operasi CRUD terhadap data pengguna.
-Book: Melakukan operasi CRUD terhadap data buku.
-Rent: Melakukan operasi untuk mengelola transaksi peminjaman buku.
+1. Authentication: Meminta token akses untuk otentikasi.
+2. Client: Melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data klien.
+3. User: Melakukan operasi CRUD terhadap data pengguna.
+4. Book: Melakukan operasi CRUD terhadap data buku.
+5. Rent: Melakukan operasi untuk mengelola transaksi peminjaman buku.
 
 ### 1. Authentication
 - `GET /token` : Request access token
