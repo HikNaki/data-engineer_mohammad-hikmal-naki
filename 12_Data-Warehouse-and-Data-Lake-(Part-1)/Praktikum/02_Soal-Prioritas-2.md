@@ -15,14 +15,20 @@
 ### Menampilkan List Tabel
 ![Gambar](../Screenshots/02_Prioritas-2/05.png)
 
-### Menerapkan Replication dan Sharding
+### Memasukkan Data Ke Dalam Tabel
 ![Gambar](../Screenshots/02_Prioritas-2/06.png)
+![Gambar](../Screenshots/02_Prioritas-2/07.png)
+![Gambar](../Screenshots/02_Prioritas-2/08.png)
+![Gambar](../Screenshots/02_Prioritas-2/09.png)
+![Gambar](../Screenshots/02_Prioritas-2/10.png)
 
+### Menerapkan Replication dan Sharding
+![Gambar](../Screenshots/02_Prioritas-2/11.png)
 
 ### Menampilkan List Tabel Terdistribusi 
-![Gambar](../Screenshots/02_Prioritas-2/07.png)
+![Gambar](../Screenshots/02_Prioritas-2/12.png)
 
-### Menampilkan Data Tabel Berdasarkan Shard Name
-![Gambar](../Screenshots/02_Prioritas-2/08.png)
+### Menampilkan Data Tabel Berdasarkan Shard Name Tertentu
+![Gambar](../Screenshots/02_Prioritas-2/13.png)
 
 
