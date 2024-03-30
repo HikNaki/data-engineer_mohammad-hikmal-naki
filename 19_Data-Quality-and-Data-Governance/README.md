@@ -1,0 +1,1 @@
+# (19) Pemahaman Tentang Data Quality dan Data Governance
