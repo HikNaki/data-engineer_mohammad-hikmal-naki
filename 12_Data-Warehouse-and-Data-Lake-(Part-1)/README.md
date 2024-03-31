@@ -1,4 +1,4 @@
-# (13) Data Warehouse and Data Lake Part 1
+# (12) Data Warehouse and Data Lake Part 1
 
 ## What is Data Warehouse and Data Lake?
 
